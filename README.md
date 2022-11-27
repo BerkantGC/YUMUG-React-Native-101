@@ -3,7 +3,6 @@
 To get source code you can run :
 
 ### `git clone https://github.com/BerkantGC/YUMUG-React-Native-101.git`
-      Cancel changes
       
 In the project directory, you can run:
 
